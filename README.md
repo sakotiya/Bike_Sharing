@@ -12,47 +12,47 @@
 * In this visualization, we graph the length of time that bikes are checked out for all riders.
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 Final results look similar to the following image:
- ![alt text](images/Users.png)
+ ![alt text](Images/Users.png)
 
 * This is  Checkout Times by Gender Viz
 In this visualization,  we graph the length of time that bikes are checked out for each gender.
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 Final results should look similar to the following image:
 
- ![alt text](images/Gender.png)
+ ![alt text](Images/Gender.png)
 
 We create Trips by Weekday for Each Hour Viz
 In this visualization, we will graph the number of bike trips by weekday for each hour of the day as a heatmap.
 
 Our final results should look similar to the following image:
 
-![alt text](images/trips.png)
+![alt text](Images/trips.png)
 
 Create the Trips by Gender (Weekday per Hour) Viz
 In this visualization, A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 
 
-![alt text](images/genderTrips.png)
+![alt text](Images/genderTrips.png)
 
 Create the User Trips by Gender by Weekday Viz
 In this visualization, A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 
 
-![alt text](images/genderweekday.png)
+![alt text](Images/genderweekday.png)
 
 ## Summary 
 
 We Created Story to represent the analysis of CItibike Data in New york 
-![alt text](images/one.png)
+![alt text](Images/one.png)
 
 * CitiBike Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers, that data creates a new need, such better user experiance interaction in the future.
 * Total of 65% General Male use, 25% General Female with an Unknown gender that relies on non-subscribers users. 
 
 * Inventory Use and Maintenance may be an issue in the future, locations are different time to time.
 
-![alt text](images/three.png)
+![alt text](Images/three.png)
 
-![alt text](images/four.png)
+![alt text](Images/four.png)
 
 
 
